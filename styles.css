@@ -1,6 +1,8 @@
 body{
   background-color: #D0C9C0;
+  font-family: cursive, sans-serif;
   }
+  .Intro {font-size: 25px;}
 hr{
   border-style: none;
   border-top-style: solid;
@@ -18,3 +20,41 @@ color: #112B3C
 }
 img {width: 300px;
 height: 300px;}
+
+.Title {margin-top: 100px;
+margin-bottom: 100px;}
+.About-Us {margin-top: 70px;
+margin-bottom: 70px;
+font-size: 25px;}
+.Choose-us {margin-top: 70px;
+margin-bottom: 70px;
+font-size: 25px}
+.Contact {margin-top: 70px;
+margin-bottom: 70px;
+font-size: 25px}
+.Bulk {margin-top: 70px;
+margin-bottom: 70px}
+
+.btn {
+  background: #717575;
+  background-image: -webkit-linear-gradient(top, #717575, #0d567a);
+  background-image: -moz-linear-gradient(top, #717575, #0d567a);
+  background-image: -ms-linear-gradient(top, #717575, #0d567a);
+  background-image: -o-linear-gradient(top, #717575, #0d567a);
+  background-image: linear-gradient(to bottom, #717575, #0d567a);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: cursive;
+  color: #ededed;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Footer {font-family: serif;
+font-size: 15px;
+color: white;
+background-color: brown;
+}
